@@ -31,7 +31,7 @@ This repository contains a simple I2C driver for the Grove RGB LCD V4.0 Display 
 
 1. Clone this repository to your BeagleBone Black:
    ```bash
-   git clone https://github.com/divyeshkapadiya-moschip/grove_rgb_lcd_device_driver.git
+   git clone https://github.com/divyesh255/grove_rgb_lcd_device_driver.git
    cd grove_rgb_lcd_device_driver
    ```
 
